@@ -1,0 +1,6 @@
+{
+  "name": "Mestre buba",
+  "description": "Aprenda a reparar celulares do iniciante ao avançado com lições interativas, quizzes e ferramentas de diagnóstico.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
